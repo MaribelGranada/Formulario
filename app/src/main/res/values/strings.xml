@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nombreCompleto">Nombre Completo</string>
+    <string name="todo"> </string>
+    <string name="Fecha">Fecha de Nacimiento</string>
+    <string name="Tel">Telefono</string>
+    <string name="Email">Email</string>
+    <string name="Descripcion">Descripcion de contacto</string>
+    <string name="Button">Siguiente</string>
+    <string name="Titulo">Formulario</string>
+
+</resources>
