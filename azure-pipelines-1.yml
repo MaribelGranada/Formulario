@@ -11,9 +11,9 @@ pool:
 
 steps:
 - task: Maven@3
-  displayName: 'Maven pom.xml'
+  displayName: 'src/main/pom.xml'
   inputs:
-    mavenPomFile: 'pom.xml'
+    mavenPomFile: 'src/main/pom.xml'
     codeCoverageToolOption: Cobertura
 
 - task: CopyFiles@2
